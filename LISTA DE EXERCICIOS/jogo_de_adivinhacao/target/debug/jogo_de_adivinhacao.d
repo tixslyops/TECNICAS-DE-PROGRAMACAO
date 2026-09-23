@@ -1,0 +1,1 @@
+C:\Users\Letícia\ Reis\lele\TECNICAS\ DE\ PROGRAMAÇÃO\LISTA\ DE\ EXERCICIOS\jogo_de_adivinhacao\target\debug\jogo_de_adivinhacao.exe: C:\Users\Letícia\ Reis\lele\TECNICAS\ DE\ PROGRAMAÇÃO\LISTA\ DE\ EXERCICIOS\jogo_de_adivinhacao\src\main.rs

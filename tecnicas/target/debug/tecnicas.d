@@ -1,0 +1,1 @@
+C:\Users\Carlos\ Heitor\Documents\GitHub\Desenvolvimento-Web\Aula\ 02\ CSS\tecnicas\target\debug\tecnicas.exe: C:\Users\Carlos\ Heitor\Documents\GitHub\Desenvolvimento-Web\Aula\ 02\ CSS\tecnicas\src\main.rs

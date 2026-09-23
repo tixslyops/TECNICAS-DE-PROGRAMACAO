@@ -1,0 +1,1 @@
+C:\Users\Letícia\ Reis\lele\TECNICAS\ DE\ PROGRAMAÇÃO\verificador_idade\exercicio\target\debug\exercicio.exe: C:\Users\Letícia\ Reis\lele\TECNICAS\ DE\ PROGRAMAÇÃO\verificador_idade\exercicio\src\main.rs
