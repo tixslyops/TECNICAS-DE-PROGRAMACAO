@@ -1,0 +1,1 @@
+C:\Users\Letícia\ Reis\lele\TECNICAS\ DE\ PROGRAMAÇÃO\SEGUNDO\ BIMESTRE\hello_world\target\debug\hello_world.exe: C:\Users\Letícia\ Reis\lele\TECNICAS\ DE\ PROGRAMAÇÃO\SEGUNDO\ BIMESTRE\hello_world\src\main.rs

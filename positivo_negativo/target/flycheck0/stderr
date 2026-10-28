@@ -1,0 +1,4 @@
+error: could not execute process `C:\Users\Carlos Heitor\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin\rustc.exe -vV` (never executed)
+
+Caused by:
+  Uma política de Controle de Aplicativo bloqueou este arquivo. (os error 4551)

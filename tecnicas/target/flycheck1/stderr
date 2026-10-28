@@ -1,0 +1,70 @@
+   0.044292900s  INFO prepare_target{force=false package_id=tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas) target="tecnicas"}: cargo::core::compiler::fingerprint: fingerprint error for tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas)/Check { test: false }/TargetInner { name: "tecnicas", doc: true, ..: with_path("C:\\Users\\Letícia Reis\\lele\\TECNICAS DE PROGRAMAÇÃO\\tecnicas\\src\\main.rs", Edition2024) }
+   0.044653500s  INFO prepare_target{force=false package_id=tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas) target="tecnicas"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas\target\debug\.fingerprint\tecnicas-a1024def0299f7d1\bin-tecnicas`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_libgit2_prerelease
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: git_midx_writer_dump
+  16: git_filter_source_repo
+  17: git_midx_writer_dump
+  18: BaseThreadInitThunk
+  19: RtlUserThreadStart
+   0.064927600s  INFO prepare_target{force=false package_id=tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas) target="tecnicas"}: cargo::core::compiler::fingerprint: fingerprint error for tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas)/Check { test: true }/TargetInner { name: "tecnicas", doc: true, ..: with_path("C:\\Users\\Letícia Reis\\lele\\TECNICAS DE PROGRAMAÇÃO\\tecnicas\\src\\main.rs", Edition2024) }
+   0.064981000s  INFO prepare_target{force=false package_id=tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas) target="tecnicas"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas\target\debug\.fingerprint\tecnicas-c3f8ca7b8dabc98e\test-bin-tecnicas`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_libgit2_prerelease
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: git_midx_writer_dump
+  16: git_filter_source_repo
+  17: git_midx_writer_dump
+  18: BaseThreadInitThunk
+  19: RtlUserThreadStart
+    Checking tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas)
+error: could not compile `tecnicas` (bin "tecnicas")
+
+Caused by:
+  could not execute process `C:\Users\Carlos Heitor\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin\rustc.exe --crate-name tecnicas --edition=2024 src\main.rs --error-format=json --json=diagnostic-rendered-ansi,artifacts,future-incompat --crate-type bin --emit=dep-info,metadata -C embed-bitcode=no -C debuginfo=2 --check-cfg cfg(docsrs,test) --check-cfg "cfg(feature, values())" -C metadata=a9d1373f77684463 -C extra-filename=-a1024def0299f7d1 --out-dir "C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas\target\debug\deps" -C "incremental=C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas\target\debug\incremental" -L "dependency=C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas\target\debug\deps"` (never executed)
+
+Caused by:
+  Uma política de Controle de Aplicativo bloqueou este arquivo. (os error 4551)
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `tecnicas` (bin "tecnicas" test)
+
+Caused by:
+  could not execute process `C:\Users\Carlos Heitor\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin\rustc.exe --crate-name tecnicas --edition=2024 src\main.rs --error-format=json --json=diagnostic-rendered-ansi,artifacts,future-incompat --emit=dep-info,metadata -C embed-bitcode=no -C debuginfo=2 --test --check-cfg cfg(docsrs,test) --check-cfg "cfg(feature, values())" -C metadata=d3258b17aa1a4d83 -C extra-filename=-c3f8ca7b8dabc98e --out-dir "C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas\target\debug\deps" -C "incremental=C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas\target\debug\incremental" -L "dependency=C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas\target\debug\deps"` (never executed)
+
+Caused by:
+  Uma política de Controle de Aplicativo bloqueou este arquivo. (os error 4551)
