@@ -1,0 +1,8 @@
+C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\SEGUNDO BIMESTRE\agregador\target\debug\deps\futures_task-d504ed6ccbb75d13.d: C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-task-0.3.34\src\lib.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-task-0.3.34\src\spawn.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-task-0.3.34\src\future_obj.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-task-0.3.34\src\noop_waker.rs
+
+C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\SEGUNDO BIMESTRE\agregador\target\debug\deps\libfutures_task-d504ed6ccbb75d13.rmeta: C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-task-0.3.34\src\lib.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-task-0.3.34\src\spawn.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-task-0.3.34\src\future_obj.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-task-0.3.34\src\noop_waker.rs
+
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-task-0.3.34\src\lib.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-task-0.3.34\src\spawn.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-task-0.3.34\src\future_obj.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-task-0.3.34\src\noop_waker.rs:

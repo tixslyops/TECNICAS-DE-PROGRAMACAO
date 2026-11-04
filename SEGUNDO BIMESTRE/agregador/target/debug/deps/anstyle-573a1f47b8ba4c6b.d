@@ -1,0 +1,10 @@
+C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\SEGUNDO BIMESTRE\agregador\target\debug\deps\anstyle-573a1f47b8ba4c6b.d: C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\lib.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\macros.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\color.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\effect.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\reset.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\style.rs
+
+C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\SEGUNDO BIMESTRE\agregador\target\debug\deps\libanstyle-573a1f47b8ba4c6b.rmeta: C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\lib.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\macros.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\color.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\effect.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\reset.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\style.rs
+
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\lib.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\macros.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\color.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\effect.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\reset.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.14\src\style.rs:

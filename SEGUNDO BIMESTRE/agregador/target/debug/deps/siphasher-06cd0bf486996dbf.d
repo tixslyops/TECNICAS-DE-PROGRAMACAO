@@ -1,0 +1,9 @@
+C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\SEGUNDO BIMESTRE\agregador\target\debug\deps\siphasher-06cd0bf486996dbf.d: C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\lib.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\common.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\sip.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\sip128.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\../README.md
+
+C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\SEGUNDO BIMESTRE\agregador\target\debug\deps\libsiphasher-06cd0bf486996dbf.rmeta: C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\lib.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\common.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\sip.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\sip128.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\../README.md
+
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\lib.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\common.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\sip.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\sip128.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.4\src\../README.md:

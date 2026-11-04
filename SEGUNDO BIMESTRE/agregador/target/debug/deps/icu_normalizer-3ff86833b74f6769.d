@@ -1,0 +1,8 @@
+C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\SEGUNDO BIMESTRE\agregador\target\debug\deps\icu_normalizer-3ff86833b74f6769.d: C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\lib.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\properties.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\provider.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\uts46.rs
+
+C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\SEGUNDO BIMESTRE\agregador\target\debug\deps\libicu_normalizer-3ff86833b74f6769.rmeta: C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\lib.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\properties.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\provider.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\uts46.rs
+
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\lib.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\properties.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\provider.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.3.0\src\uts46.rs:
