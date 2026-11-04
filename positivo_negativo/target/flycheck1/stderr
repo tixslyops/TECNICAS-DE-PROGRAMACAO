@@ -1,10 +1,5 @@
-    Blocking waiting for file lock on package cache
-    Blocking waiting for file lock on package cache
-    Blocking waiting for file lock on package cache
-    Blocking waiting for file lock on package cache
-    Blocking waiting for file lock on shared package cache
-   0.203761900s  INFO prepare_target{force=false package_id=positivo_negativo v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo) target="positivo_negativo"}: cargo::core::compiler::fingerprint: fingerprint error for positivo_negativo v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo)/Check { test: false }/TargetInner { name: "positivo_negativo", doc: true, ..: with_path("C:\\Users\\Letícia Reis\\lele\\TECNICAS DE PROGRAMAÇÃO\\positivo_negativo\\src\\main.rs", Edition2024) }
-   0.203808300s  INFO prepare_target{force=false package_id=positivo_negativo v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo) target="positivo_negativo"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo\target\debug\.fingerprint\positivo_negativo-9ee7287fe1ea9f69\bin-positivo_negativo`
+   0.021520000s  INFO prepare_target{force=false package_id=positivo_negativo v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo) target="positivo_negativo"}: cargo::core::compiler::fingerprint: fingerprint error for positivo_negativo v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo)/Check { test: false }/TargetInner { name: "positivo_negativo", doc: true, ..: with_path("C:\\Users\\Letícia Reis\\lele\\TECNICAS DE PROGRAMAÇÃO\\positivo_negativo\\src\\main.rs", Edition2024) }
+   0.021574800s  INFO prepare_target{force=false package_id=positivo_negativo v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo) target="positivo_negativo"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo\target\debug\.fingerprint\positivo_negativo-9ee7287fe1ea9f69\bin-positivo_negativo`
 
 Caused by:
     O sistema não pode encontrar o arquivo especificado. (os error 2)
@@ -30,8 +25,8 @@ Stack backtrace:
   17: git_midx_writer_dump
   18: BaseThreadInitThunk
   19: RtlUserThreadStart
-   0.219316800s  INFO prepare_target{force=false package_id=positivo_negativo v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo) target="positivo_negativo"}: cargo::core::compiler::fingerprint: fingerprint error for positivo_negativo v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo)/Check { test: true }/TargetInner { name: "positivo_negativo", doc: true, ..: with_path("C:\\Users\\Letícia Reis\\lele\\TECNICAS DE PROGRAMAÇÃO\\positivo_negativo\\src\\main.rs", Edition2024) }
-   0.219359500s  INFO prepare_target{force=false package_id=positivo_negativo v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo) target="positivo_negativo"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo\target\debug\.fingerprint\positivo_negativo-916f4829d0ce45f7\test-bin-positivo_negativo`
+   0.039011900s  INFO prepare_target{force=false package_id=positivo_negativo v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo) target="positivo_negativo"}: cargo::core::compiler::fingerprint: fingerprint error for positivo_negativo v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo)/Check { test: true }/TargetInner { name: "positivo_negativo", doc: true, ..: with_path("C:\\Users\\Letícia Reis\\lele\\TECNICAS DE PROGRAMAÇÃO\\positivo_negativo\\src\\main.rs", Edition2024) }
+   0.039055500s  INFO prepare_target{force=false package_id=positivo_negativo v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo) target="positivo_negativo"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\positivo_negativo\target\debug\.fingerprint\positivo_negativo-916f4829d0ce45f7\test-bin-positivo_negativo`
 
 Caused by:
     O sistema não pode encontrar o arquivo especificado. (os error 2)

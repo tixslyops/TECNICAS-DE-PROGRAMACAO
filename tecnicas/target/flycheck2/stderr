@@ -1,8 +1,5 @@
-    Blocking waiting for file lock on package cache
-    Blocking waiting for file lock on package cache
-    Blocking waiting for file lock on package cache
-   0.176842500s  INFO prepare_target{force=false package_id=tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas) target="tecnicas"}: cargo::core::compiler::fingerprint: fingerprint error for tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas)/Check { test: false }/TargetInner { name: "tecnicas", doc: true, ..: with_path("C:\\Users\\Letícia Reis\\lele\\TECNICAS DE PROGRAMAÇÃO\\tecnicas\\src\\main.rs", Edition2024) }
-   0.176889100s  INFO prepare_target{force=false package_id=tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas) target="tecnicas"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas\target\debug\.fingerprint\tecnicas-a1024def0299f7d1\bin-tecnicas`
+   0.028527900s  INFO prepare_target{force=false package_id=tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas) target="tecnicas"}: cargo::core::compiler::fingerprint: fingerprint error for tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas)/Check { test: false }/TargetInner { name: "tecnicas", doc: true, ..: with_path("C:\\Users\\Letícia Reis\\lele\\TECNICAS DE PROGRAMAÇÃO\\tecnicas\\src\\main.rs", Edition2024) }
+   0.028623400s  INFO prepare_target{force=false package_id=tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas) target="tecnicas"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas\target\debug\.fingerprint\tecnicas-a1024def0299f7d1\bin-tecnicas`
 
 Caused by:
     O sistema não pode encontrar o arquivo especificado. (os error 2)
@@ -28,8 +25,8 @@ Stack backtrace:
   17: git_midx_writer_dump
   18: BaseThreadInitThunk
   19: RtlUserThreadStart
-   0.192402100s  INFO prepare_target{force=false package_id=tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas) target="tecnicas"}: cargo::core::compiler::fingerprint: fingerprint error for tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas)/Check { test: true }/TargetInner { name: "tecnicas", doc: true, ..: with_path("C:\\Users\\Letícia Reis\\lele\\TECNICAS DE PROGRAMAÇÃO\\tecnicas\\src\\main.rs", Edition2024) }
-   0.192436200s  INFO prepare_target{force=false package_id=tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas) target="tecnicas"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas\target\debug\.fingerprint\tecnicas-c3f8ca7b8dabc98e\test-bin-tecnicas`
+   0.046048800s  INFO prepare_target{force=false package_id=tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas) target="tecnicas"}: cargo::core::compiler::fingerprint: fingerprint error for tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas)/Check { test: true }/TargetInner { name: "tecnicas", doc: true, ..: with_path("C:\\Users\\Letícia Reis\\lele\\TECNICAS DE PROGRAMAÇÃO\\tecnicas\\src\\main.rs", Edition2024) }
+   0.046088600s  INFO prepare_target{force=false package_id=tecnicas v0.1.0 (C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas) target="tecnicas"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\tecnicas\target\debug\.fingerprint\tecnicas-c3f8ca7b8dabc98e\test-bin-tecnicas`
 
 Caused by:
     O sistema não pode encontrar o arquivo especificado. (os error 2)
