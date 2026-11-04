@@ -1,0 +1,10 @@
+C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\AGREGADOR DE RSS EM RUST\target\debug\deps\hashlink-ec9a25b26b46cfc5.d: C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\lib.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\linked_hash_map.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\linked_hash_set.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\lru_cache.rs
+
+C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\AGREGADOR DE RSS EM RUST\target\debug\deps\libhashlink-ec9a25b26b46cfc5.rlib: C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\lib.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\linked_hash_map.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\linked_hash_set.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\lru_cache.rs
+
+C:\Users\Letícia Reis\lele\TECNICAS DE PROGRAMAÇÃO\AGREGADOR DE RSS EM RUST\target\debug\deps\libhashlink-ec9a25b26b46cfc5.rmeta: C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\lib.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\linked_hash_map.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\linked_hash_set.rs C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\lru_cache.rs
+
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\lib.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\linked_hash_map.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\linked_hash_set.rs:
+C:\Users\Carlos\ Heitor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashlink-0.9.1\src\lru_cache.rs:
